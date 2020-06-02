@@ -12,9 +12,9 @@
     "application" : [ "read", "write" ]
   } ],
   "paths" : {
-    "/example" : {
+    "/authenticate" : {
       "get" : {
-        "summary" : "Server example operation",
+        "summary" : "Server authentication operation",
         "description" : "This is an example operation to show how security is applied to the call.",
         "parameters" : [ ],
         "responses" : {
