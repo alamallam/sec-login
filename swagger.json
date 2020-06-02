@@ -22,7 +22,7 @@
   "paths" : {
     "/example" : {
       "get" : {
-        "summary" : "Server example operation",
+        "summary" : "Server Authentification operation",
         "description" : "This is an example operation to show how security is applied to the call.",
         "responses" : {
           "200" : {
